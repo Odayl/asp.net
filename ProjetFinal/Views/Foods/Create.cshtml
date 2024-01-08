@@ -1,0 +1,62 @@
+﻿@model ProjetFinal.Models.Food
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Food</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="ImageUrl" class="control-label"></label>
+                    <input asp-for="ImageUrl" class="form-control" />
+                    <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                </div>
+
+              <div class="form-group">
+                <label asp-for="Nom" class="control-label"></label>
+                <input asp-for="Nom" class="form-control" />
+                <span asp-validation-for="Nom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Specialite" class="control-label"></label>
+         
+                @*<select asp-for="Genre" class="form-control"></select>*@
+                <select asp-for="Specialite" asp-items="Html.GetEnumSelectList<Specialite>()" class="form-control">
+                    <option value=""></option>
+                </select>
+                <span asp-validation-for="Specialite" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ingredient" class="control-label"></label>
+                <input asp-for="Ingredient" class="form-control" />
+                <span asp-validation-for="Ingredient" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Prix" class="control-label"></label>
+                <input asp-for="Prix" class="form-control" />
+                <span asp-validation-for="Prix" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ChefId" class="control-label"></label>
+                <select asp-for="ChefId" class="form-control" asp-items="ViewBag.ChefId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetFinal
+build_property.RootNamespace = ProjetFinal
+build_property.ProjectDir = C:\Users\syrin\OneDrive\Bureau\ProjetFinal\ProjetFinal\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\syrin\OneDrive\Bureau\ProjetFinal\ProjetFinal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Chefs/ChefsAndTheirFoods.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcQ2hlZnNBbmRUaGVpckZvb2RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Chefs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Chefs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Chefs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Chefs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Chefs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlZnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Foods/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Foods/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Foods/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Foods/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Foods/FoodsAndTheirChefs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZHNcRm9vZHNBbmRUaGVpckNoZWZzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Foods/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Foods/SearchByTitle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZHNcU2VhcmNoQnlUaXRsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/syrin/OneDrive/Bureau/ProjetFinal/ProjetFinal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-e6vo95pnyn
